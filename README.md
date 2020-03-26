@@ -1,4 +1,4 @@
-# Newcastle Research Software Engineering Training Courses
+# Training Courses
 Overview and description of training courses offered by the Newcastle RSE team.
 
 # Course List
