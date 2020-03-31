@@ -6,7 +6,7 @@ Overview and description of training courses offered by the Newcastle RSE team.
 ### Software Engineering
 
 1. Version Control
-2. Unix Shell
+2. Introduction to the Unix Shell
 3. Testing
 4. Docker & Containers
 5. Continuous Integration & Continuous Deployment
