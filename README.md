@@ -1,6 +1,8 @@
 # Training Courses
 Overview and description of training courses offered by the Newcastle RSE team.
 
+[List of existing material](https://docs.google.com/spreadsheets/d/1zzIW3nCHGXhOU8qWm4IroM3QLqnpByzh4K7JsLt_QCc/edit#gid=0)
+
 ## Course List
 
 ### Software Engineering
